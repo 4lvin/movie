@@ -1,0 +1,1 @@
+const String noImage = 'assets/no-image.png';
